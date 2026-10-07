@@ -15,7 +15,9 @@ function Download() {
           </p>
 
           <div className="mt-8">
-            <Button>↓ &nbsp; DOWNLOAD NOW</Button>
+            <Button
+              href='/public/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk'
+            >↓ &nbsp; DOWNLOAD NOW</Button>
           </div>
         </div>
       </Container>
