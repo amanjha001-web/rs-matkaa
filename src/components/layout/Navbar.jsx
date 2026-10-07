@@ -16,7 +16,7 @@ function Navbar() {
           </a>
 
           {/* Desktop CTA */}
-          <Button href="/public/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk">DOWNLOAD APP</Button>
+          <Button href="/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk">DOWNLOAD APP</Button>
         </nav>
       </Container>
     </header>

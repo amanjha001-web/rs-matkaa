@@ -73,7 +73,7 @@ function Hero() {
             {/* CTA */}
             <div className="mt-8 flex justify-center sm:mt-9 lg:justify-start">
               <Button
-                href="/public/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk"
+                href="/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk"
                 className="px-8 py-4 text-sm sm:px-10 sm:py-5 sm:text-sm"
               >
                 ↓ &nbsp; DOWNLOAD RS MATKA APP
