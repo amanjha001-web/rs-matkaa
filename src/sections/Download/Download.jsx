@@ -16,15 +16,12 @@ function Download() {
           </p>
 
           <div className="mt-8">
-            <a
+            <Button
               href="/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk"
-              download="RS-MATKA-App.apk"
-              className="inline-block"
+              className="px-8 py-4 text-sm sm:px-10 sm:py-5"
             >
-              <Button className="px-8 py-4 text-sm sm:px-10 sm:py-5">
-                ↓ &nbsp; DOWNLOAD NOW
-              </Button>
-            </a>
+              ↓ &nbsp; DOWNLOAD NOW
+            </Button>
           </div>
         </div>
       </Container>
