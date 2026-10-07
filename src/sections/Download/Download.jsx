@@ -1,3 +1,4 @@
+
 import Container from "../../components/common/Container";
 import Button from "../../components/common/Button";
 
@@ -11,13 +12,19 @@ function Download() {
           </h2>
 
           <p className="mx-auto mt-4 max-w-lg text-sm text-white/40">
-            Tap the button below to continue to the RS MATKA app.
+            Tap the button below to download the RS MATKA app.
           </p>
 
           <div className="mt-8">
-            <Button
-              href='/public/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk'
-            >↓ &nbsp; DOWNLOAD NOW</Button>
+            <a
+              href="/application-a3ab0e8b-5066-486c-a8c0-5c3965b355b4.apk"
+              download="RS-MATKA-App.apk"
+              className="inline-block"
+            >
+              <Button className="px-8 py-4 text-sm sm:px-10 sm:py-5">
+                ↓ &nbsp; DOWNLOAD NOW
+              </Button>
+            </a>
           </div>
         </div>
       </Container>
